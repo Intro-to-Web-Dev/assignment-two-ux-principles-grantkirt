@@ -1,36 +1,34 @@
-# Overview
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Assignment 2</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Assignment 2 On John Deere ">
+        <meta name="keywords" content="John Deere, Tractors, Assignment 2">
+        <meta name="author" content="Grant Kirt">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>Usability</h1>
+        <p>Our usability would be mesurered by the amount of people signing up for the website and how it might 
+            bring more people in by having ads on other websites. We'd mesure sales online vs. in store purchaes 
+            and how they might corlate with eachother.
+        </p>
+        <h1>Accesibility</h1>
+        <p>The goal for this websites accesibility would be easy for anyone to use,
+            The pople who would be buying these products may be older gentelmen that dont offten use the internet
+            so making it clutter free and easy to use would make it easy for them and easy for the web designer to update.
+            Having a Text to speech mode in the bottom right would help. 
+            Lastly a zoom feature built in to the website woudl help with smaller text.</p>
+        
+        <h1>Why my Website will add value to to the product</h1>
+        <p>I feel that this website will help with the further future of online shopping
+            and how much easier it will be to nott have to go into the store to buy/lease a 
+            big peice of equiment if they can just ship it to you. AS I feel that the in door shopping experience 
+            is fading you always need the backup plan like this.
+        </p>
+        <a href="Assignment2.xd"><img src="Assignment2.PNG" alt="A wireframe of a John Deere website"></a>
+    </body>
 
-For assignment 2, you will continue to think through the details of your site by defining the information architecture of your site, creating high-fidelity wire-frames, and developing multiple user profiles for your site.  Requirement 1 will ask you to create a site map of your website's content.  Requirement 2 requires you to create several wire-frames for the various layouts your site will have.  Requirement 3 is going to have you create CSS style rules and place them into an external document. Requirement 4 simply provides instructions on how you will submit and upload the assignment.   Make sure to label your requirements 1 and 2 within a heading tag.
 
-Listed below are the  requirements you will need to complete for your individual project. Your project folder should implement a hierarchical folder structure which should include a css and images directory along with an html document named requirements.html.
-
-## Requirement 1 (Information Architecture)
-
-You will need to construct a site-map that identifies the 4 key elements of your site's content.
-
- - The site-maps key/legend that describes each shape represented in your sitemap.  Your key/legend should have a minimum of 3 different shapes.
- - The persistent global navigation which defines the page names and order of pages.
- - The page components or sub-pages that stem from your global navigation.
- - The static footer content
-
-Generate an image of the sitemap you created and include the image within the requirements.html page with a brief description of why you think the content of your site will add value to the end-user and why they would return to your site.
-
-The slide presentation below provides an example of a sitemap.  
-[User Experience Slide Presentation](https://instructorc.github.io/site/slides/webdev/ux.html)
-
-
-## Requirement 2 (Wireframing)
-
-You will need to create **three high-fidelity wire-frames that depict the various widths for desktop, tablet and mobile view**. A desktop, tablet and mobile wire-frame will need to created for each layout presented within your site. 
-
-The wire-frames should indicate main navigation, active white space, and all visible box elements that will render in the browser.  The three wire-frames should be included as an image within the requirements.html document.
-
-Please make sure to update tests as appropriate.
-
-## Requirement 3 (Practice with CSS Selectors):
-
-Include 3 or more CSS style rules with **three different types of selectors** within an external CSS document and apply 12 or more properties to format the style your content.
-
-## Requirement 4 (Submission)
-
-Assignment 2 will need to be submitted in 2 different ways.  You will need to submit a zipped folder containing your sites files to canvas before the due date and time listed.  You will also need to upload this document via Github repository.   All files (images, css file, html pages, fonts, etc) should be placed in an assignment2 directory/folder. 
+</html> 
